@@ -1,6 +1,4 @@
-# Assignment 1 - Product CRUD
 
-React + Vite project based on the assignment handout.
 
 ## Features
 - Product list using Axios GET
@@ -11,10 +9,3 @@ React + Vite project based on the assignment handout.
 - React Router navigation
 - Controlled form inputs
 
-## Run
-```bash
-npm install
-npm run dev
-```
-
-DummyJSON returns fake create/update/delete success responses, so changes are not permanently stored on their server.

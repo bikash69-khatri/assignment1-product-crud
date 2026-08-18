@@ -1,0 +1,19 @@
+{
+  "name": "assignment1-product-crud",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "axios": "^1.19.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router": "^8.3.0",
+    "vite": "latest"
+  }
+}
